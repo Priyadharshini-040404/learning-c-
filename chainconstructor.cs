@@ -49,7 +49,6 @@ class Program
         s1.DisplayInfo();                     
         s1.DisplayInfo("Unknown Student");
         s1.DisplayInfo("Unknown Student", 0);
-
         Console.WriteLine("\n-----Student 2-----");
         Student s2 = new Student("Indira", 20); 
         s2.DisplayInfo();
